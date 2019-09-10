@@ -1,24 +1,24 @@
 # inverse_kinematic_3d_model
 
 
-# Introduction
+## Introduction
 Implement body inverse kinematic with neural network and display on 3d model with three.js
 
 
-# Requirements
+## Requirements
 python3.6
 - `numpy`
 - `keras (tensorflow backend)`
 - `tornado`
 
 
-# Train
+## Train
 `cd inverse_kinematic_3d_model`
 
 `python train.py`
 
 
-# Display
+## Display
 ```
 optional arguments:
   -h, --help   show this help message and exit
@@ -30,10 +30,10 @@ optional arguments:
 `python server.py --port PORT`
 
 
-# Data 
+## Data 
 longbow locomotion pack
 
-This model is created by FireFoxFighters and published on Sketchfab.
+This 3d model is created by FireFoxFighters and published on Sketchfab.
 
 To download:
 https://sketchfab.com/3d-models/longbow-locomotion-pack-1e6c169185574572891900f239756c42
