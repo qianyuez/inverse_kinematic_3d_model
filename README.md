@@ -1,6 +1,6 @@
 # inverse_kinematic_3d_model
 
-Implement body inverse kinematic with neural network and display on 3d model with three.js
+Implement body inverse kinematic with machine learning and display on 3d model with three.js
 
 <img src="https://github.com/qianyuez/inverse_kinematic_3d_model/blob/master/data/ik_model.gif" width="500px">
 
