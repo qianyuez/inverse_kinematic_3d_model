@@ -32,7 +32,7 @@ optional arguments:
 ## Data 
 longbow locomotion pack
 
-This 3d model is created by FireFoxFighters and published on Sketchfab.
+This 3d character model is created by FireFoxFighters and published on Sketchfab.
 
 To download:
 
